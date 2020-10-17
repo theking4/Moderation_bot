@@ -1,0 +1,3 @@
+discord.py
+python == 3.8
+asyncio
